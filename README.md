@@ -1,27 +1,20 @@
-main@JustNotSebas:~$ sudo apt install profile
+main@JustNotSebas:~$ sudo api packages install profile
 
 [sudo] password for main: ********
 
-Reading package lists... Done
+Updating packages list... done
+Downloading updated files...... done
 
-Building dependency tree
-
-Reading state information... Done
-
-The following NEW packages will be installed:
-
+Package requested to install:
   profile
 
 After this operation, 10.2kb of additional disk space will be used.
-  
 Do you want to continue? [y/n] y
 
-Get:1 https://justnotsebas.ml/
-
+Downloading [1]: https://justnotsebas.com/
 Fetched 10.2kb in 1s
 
-Unpacking profile..... Done
+Unpacking packages...... done
+Setting up packages.......... failed
 
-Setting up profile...............
-
-Failed to set up some archives, maybe try with --fix-missing?
+Failed to install packages.
