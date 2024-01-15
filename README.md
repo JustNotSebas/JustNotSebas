@@ -1,29 +1,24 @@
-main@JustNotSebas:~$ sudo api packages install profile
+main@GitHub:~$ userinfo show justnotsebas
 
-[sudo] password for main: ********
-    
-    
-Updating packages list... done
-
-Downloading updated files...... done
-    
-    
-Package requested to install:
-
-  profile
-
-After this operation, 10.2kb of additional disk space will be used.
-Do you want to continue? [y/n] y
-    
-    
 Downloading [1]: https://justnotsebas.com/
 
-Fetched 10.2kb in 1s
-    
-    
-Unpacking packages...... done
+Extracting...... done
 
-Setting up packages.......... failed
-    
-    
-Failed to install packages.
+Showing user: JustNotSebas (justnotsebas.com)
+
+> Hello! I'm Sebastian, but you can call me `JustNotSebas`
+> 
+> I'm a 15 year old Colombian who loves technology and programming.
+>
+> Programming skills in Python. Learning HTML/CSS/JS.
+>
+> I'm not single.
+>
+> If you want to be friends, check my contact info on my [webpage](https://www.justnotsebas.com)
+>
+> Hope you have a nice day!
+>
+
+End of user information. Returning to terminal.
+
+main@GitHub:~$ logout
