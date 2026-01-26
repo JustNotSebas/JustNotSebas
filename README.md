@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am Sebastian!<br>Hope you're having a nice day~<br><br>-  Currently a student.<br>- Learning and coding apps and microcontrollers.<br>- I usually like messing around with what I can do on the internet.</p>
+<p align="left">Heya. How's it going?<br>The name's Sebastian. You might know me as JustNotSebas.<br>I hope you're having a nice day~ ✨<br><br>-  Systems Engineering student.<br>- Python developer, sometimes m messing with webdev and microcontrollers.<br>- Developer of Discord bots and stupid stuff.</p>
 
 ###
 
@@ -41,8 +41,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustNotSebas&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="250" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustNotSebas&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-five-theta-61.vercel.app/api?username=justnotsebas&show_icons=true&theme=holi" height="250" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats-five-theta-61.vercel.app/api/top-langs?username=justnotsebas&show_icons=true&theme=holi&size_weight=0.5&count_weight=0.5&langs_count=20&hide_progress=true" height="150" alt="languages graph"/>
 </div>
 
 ###
