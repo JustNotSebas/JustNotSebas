@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Heya. How's it going?<br>The name's Sebastian. You might know me as JustNotSebas.<br>I hope you're having a nice day~ ✨<br><br>-  Systems Engineering student.<br>- Python developer, sometimes m messing with webdev and microcontrollers.<br>- Developer of Discord bots and stupid stuff.</p>
+<p align="left">Heya. How's it going?<br>The name's Sebastian. You might know me as JustNotSebas.<br>I hope you're having a nice day~ ✨<br><br>-  Systems Engineering student.<br>- Python developer, sometimes messing with webdev and microcontrollers.<br>- Developer of Discord bots and stupid stuff.</p>
 
 ###
 
